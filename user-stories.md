@@ -1,4 +1,5 @@
 # **Gettin' WIT' the Programming**
+**As a new student in the wonderful world of IT, I want to create an interesting game of wits to assist in gaining an understanding of the IT programming language.**
 **https://github.com/ndnanjel**
 * * * *
 ## **Get Jiggy Wit' IT**
